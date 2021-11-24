@@ -1,0 +1,25 @@
+.card{
+margin: 10px;
+}
+.card ul{
+    display:flex;
+    flex-wrap: wrap;
+}
+.card ul li{
+    margin: 5px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+li, h4, h2 {
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+}
